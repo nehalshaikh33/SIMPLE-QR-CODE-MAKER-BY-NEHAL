@@ -1,0 +1,2 @@
+# SIMPLE-QR-CODE-MAKER-BY-NEHAL
+simple to use
